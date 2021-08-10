@@ -23,5 +23,3 @@ The best way to hone your data analysis skills is consistent, deliberate practic
 - Load up each of these data sets into a Pandas DataFrame within each respective file.
 
 &nbsp;
-
-**PR Link**: <https://github.com/YAHIAQOUS/vg-stats/pull/1>
